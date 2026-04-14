@@ -12,6 +12,8 @@ see what the ESP32 detected.
 That's the whole idea: **the PC just shows the video, the ESP32 does the
 actual detection work.**
 
+https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/demo/esp32s3-motion-detection.mp4
+
 
 
 ## How it works (in plain words)
