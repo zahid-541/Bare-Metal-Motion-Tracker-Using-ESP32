@@ -12,7 +12,7 @@ see what the ESP32 detected.
 That's the whole idea: **the PC just shows the video, the ESP32 does the
 actual detection work.**
 
-https://github.com/zahid-541/Bare-Metal-Motion-Tracker-Using-ESP32/raw/main/demo/esp32s3-motion-detection.mp4
+https://github.com/zahid-541/Bare-Metal-Motion-Tracker-Using-ESP32/raw/main/esp32s3-motion-detection.mp4
 
 
 
